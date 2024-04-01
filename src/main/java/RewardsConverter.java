@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//additional change made to generate pull request
 public class RewardsConverter {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
